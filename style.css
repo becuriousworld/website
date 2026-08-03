@@ -8,3 +8,15 @@ body {
 h1 {
     color: #1976d2;
 }
+
+img {
+    width: 200px;
+    height: auto;
+
+}
+
+.dim {
+    color: #999;
+    font-size: 12px;
+    font-weight: normal;
+}
